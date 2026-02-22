@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio Files
+*.wav
+
+# Models and Cache
+.cache/
+*.onnx
+*.json
+
+# Logs and Temp
+*.txt
+*.log
+
+# Environment
+.env
+venv/
+env/
+
+# OS Files
+.DS_Store
+Thumbs.db
